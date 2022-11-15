@@ -1,6 +1,6 @@
 ## Inside The Bubble
 This is a skeleton layout for San Antonio artist/musician Yung Guardian
-- `Creating an emotional outlet via trippy electonic beats for your mind to escape reality. Get lost with Yung Guardian`
+- Creating an emotional outlet via trippy electonic beats for your mind to escape reality. Get lost with the sounds of Yung Guardian
 
 ## Yung Guardian
 - Link to site will go here 
